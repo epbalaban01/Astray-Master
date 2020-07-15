@@ -1,17 +1,17 @@
 # Astray
 
-A WebGL maze game built with Three.js and Box2dWeb. Play it here: http://wwwtyro.github.com/Astray/
+Three.js ve Box2dWeb ile oluşturulmuş bir WebGL labirent oyunu. Burada oynayın:http://wwwtyro.github.com/Astray/
 
-### Launching
+### Oyun Başlangıcı
 
-There are several ways to launch the game. Here is the simplest:
+Oyunu başlatmanın birkaç yolu vardır. İşte en basit:
 
-1. Clone or download the repository
-2. Navigate to Astray's directory
-3. Start 'python -m SimpleHTTPServer' in your shell (for python 3.0 and above type 'python -m http.server' in your shell)
-4. Open 'localhost:8000' in your browser
-5. Enjoy!
+1. Havuzu kopyalayın veya indirin
+2. Astray'ın dizinine gidin
+3. Kabuğunuzda 'python -m SimpleHTTPServer'ı başlatın (python 3.0 ve üstü için kabuğunuzda' python -m http.server 'yazın)
+4. Tarayıcınızda 'localhost: 8000' açın
+5. Tadını çıkarın!
 
-### License
+### Lisans
 
-I don't believe in them. You can order your bits however you please.
+Lisanslara bakarak lisans kabul etmiş sayılır..
